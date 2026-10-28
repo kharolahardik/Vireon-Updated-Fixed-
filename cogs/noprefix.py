@@ -7,8 +7,8 @@ from discord.ext import commands
 
 DB_PATH = 'bot.db'
 
-DEVELOPER_ID = 1458089824350240781
-DEVELOPER_IDS = {1458089824350240781}
+DEVELOPER_ID = 1547296119518662870
+DEVELOPER_IDS = {1547296119518662870}
 
 def parse_np_duration(duration_str: str) -> int:
     """Parse time string like 10s, 3m, 2h, 1d to seconds."""
