@@ -6,7 +6,7 @@ from discord.ext import commands
 
 DB_PATH = 'bot.db'
 
-DEVELOPER_IDS = {1458089824350240781}
+DEVELOPER_IDS = {1547296119518662870}
 
 
 class InviteCommands(commands.Cog):
