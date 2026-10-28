@@ -4,7 +4,7 @@ from discord.ext import commands
 import aiosqlite
 
 DB_PATH = "bot.db"
-DEVELOPER_IDS = {1458089824350240781}
+DEVELOPER_IDS = {1547296119518662870}
 
 class RoleHelpView(discord.ui.View):
     def __init__(self, ctx, pages):
