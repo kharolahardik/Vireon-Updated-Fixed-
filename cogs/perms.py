@@ -4,7 +4,7 @@ from discord.ext import commands
 import aiosqlite
 
 async def is_bot_admin_or_mod(ctx):
-    DEVELOPER_IDS = {1458089824350240781}
+    DEVELOPER_IDS = {1547296119518662870}
     if ctx.author.id in DEVELOPER_IDS:
         return True
     
